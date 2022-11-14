@@ -1,0 +1,14 @@
+.Dunder-Mifflin-Website {
+    width: 400px;
+    border-radius: 5%;
+
+}
+
+body {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+
+}
+
